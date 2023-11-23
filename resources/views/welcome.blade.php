@@ -73,7 +73,7 @@
     </div>
 
     <div class="content">
-        <p>Explora la belleza y la simplicidad de {{ config('app.name') }}.</p>
+        <p>Explora la belleza y la simplicidad de {{ config('app.name') }}!!.</p>
         <p>Construye algo increíble.</p>
     </div>
 
